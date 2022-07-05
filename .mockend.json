@@ -1,10 +1,6 @@
-{
   "Superhero": {
-  "Post": {
     "title": { "string": {} },
     "comments": {
       "hasMany": "Comment"
     }
-  }
-  }
-}
+  },
